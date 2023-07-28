@@ -1,16 +1,17 @@
-<h2>Aplicação de Negociações em Bolsa de Valores</h2> - TypeScript Learning Project
-Finalização da aplicação de negociações em bolsa de valores utilizando TypeScript como linguagem de programação. 
+<h2>Aplicação de Negociações em Bolsa de Valores</h2>
+
+Finalização da aplicação de negociações em bolsa de valores utilizando TypeScript como linguagem de programação - TypeScript Learning Project. 
 
 Fase final com aplicação do TypeScript Avançado. 
 
 <h3>Funcionalidades Implementadas</h3>
-- Conheça as vantagens do uso de Decorators
-- Crie diferentes tipos de decorators e deixe seu código ainda mais elegante
-- Compreenda os benefícios do uso de interfaces
-- Aprenda a organizar e a adicionar tipo em seu código ao consumir uma API REST
-- Entenda o papel de sourceMaps e aprenda como debugar a sua aplicação no navegador
-- Crie soluções combinando tudo o que aprendeu nos módulos anteriores
-- Tire benefício do Polimorfismo garantindo um código protegido e dinâmico
+
+- Uso de Decorators para um código mais elegante
+- Uso de interfaces e seus benefícios
+- Organizar e adicionar tipo em seu código ao consumir uma API REST
+- O papel de sourceMaps e para debugar a aplicação no navegador
+- Criação de soluções
+- Benefício do Polimorfismo para garantir um código protegido e dinâmico
 
 <h3>Como Executar a Aplicação</h3>
 Para executar a aplicação, siga os passos abaixo:
