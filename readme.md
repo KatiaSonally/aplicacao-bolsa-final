@@ -4,7 +4,7 @@ Finalização da aplicação de negociações em bolsa de valores utilizando Typ
 
 Esse projeto foi desenvolvido em três fases:
 
-<h3>Primeira fase: TypeScript básico</h3>
+<h3>Primeira fase - TypeScript básico: </h3>
 
 - Implementação do cadastro de negociação, onde o usuário pode inserir uma data, uma quantidade e um valor para cadastrar uma negociação na aplicação.
 - Tratamento da imutabilidade dos dados, com aplicação de soluções para garantir que os dados da negociação não possam ser modificados após o cadastro. As soluções implementadas incluem:
@@ -15,14 +15,14 @@ Esse projeto foi desenvolvido em três fases:
     * Programação defensiva
 
 
-<h3>Segunda fase: TypeScript intermediário</h3>
+<h3>Segunda fase - TypeScript intermediário:</h3>
 
 - Utilização de modificadores de acesso, herança e tipos genéricos
 - Definição e utilização das Enumerations
 - Criação de um mini framework de atualização de view inspirado no JSX
 - Configuração do compilador TS visando a otimização do código
 
-<h3>Terceira fase: TypeScript avançado</h3>
+<h3>Terceira fase - TypeScript avançado:</h3>
 
 - Uso de Decorators para um código mais elegante
 - Uso de interfaces e seus benefícios
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido em três fases:
 
 ![Alt text](image.png)
 
-<h3>Como Executar a Aplicação</h3>
+<h3>Como Executar a Aplicação:</h3>
 Para executar a aplicação, siga os passos abaixo:
 
 Certifique-se de ter o ambiente Node.js instalado em sua máquina.
@@ -48,6 +48,6 @@ Abra outro terminal, navegue até a pasta servidor-api, faça "npm install" e em
 
 Acesse a aplicação através do navegador utilizando o endereço http://localhost:3000 (ou outra porta, caso especificada no terminal).
 
-<h3>Contribuições</h3>
+<h3>Contribuições:</h3>
 
 Contribuições são bem-vindas! Se você tem alguma ideia de melhoria ou correção de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
