@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido em três fases:
 ![Alt text](image.png)
 
 <h3>Como Executar a Aplicação:</h3>
+
 Para executar a aplicação, siga os passos abaixo:
 
 Certifique-se de ter o ambiente Node.js instalado em sua máquina.
